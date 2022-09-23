@@ -1,0 +1,13 @@
+ul {
+  display: flex;
+}
+
+li {
+  list-style: none;
+  margin-right: 20px;
+  font-size: 50px;
+}
+
+a {
+  color: gold;
+}/*# sourceMappingURL=style.css.map */
